@@ -1,13 +1,13 @@
 ###  Hi There, I'm Henrique 🖖
  
-- I'm currently stunding JavaScript
-- Technologies I already know HTML5, CSS3, Git and GitHub
-- I'm looking for a job opportunity in front end programming
+- I'm currently stunding JavaScript 🤓
+- Technologies I already know HTML5, CSS3, Git and GitHub 🤓
+- I'm looking for a job opportunity in front end programming 💻
 
 <div align="center">
   <a href="https://https://github.com/Henrick04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrick04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrick04&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrick04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrick04&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  <div style="display: inline_block"><br>
